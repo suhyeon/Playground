@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaygroundCore", "PlaygroundCore\PlaygroundCore.csproj", "{58AA5973-0A4B-49C3-9FD9-FC14C59BDA7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlaygroundCore", "PlaygroundCore\PlaygroundCore.csproj", "{58AA5973-0A4B-49C3-9FD9-FC14C59BDA7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toy", "Toy\Toy.csproj", "{F11D4523-432D-48FD-A063-7A0B4F81F759}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Toy", "Toy\Toy.csproj", "{F11D4523-432D-48FD-A063-7A0B4F81F759}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{6CF8FC2E-2065-4A15-AC7C-564FFB1D8FB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F11D4523-432D-48FD-A063-7A0B4F81F759}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F11D4523-432D-48FD-A063-7A0B4F81F759}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F11D4523-432D-48FD-A063-7A0B4F81F759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF8FC2E-2065-4A15-AC7C-564FFB1D8FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF8FC2E-2065-4A15-AC7C-564FFB1D8FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF8FC2E-2065-4A15-AC7C-564FFB1D8FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF8FC2E-2065-4A15-AC7C-564FFB1D8FB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
